@@ -1,0 +1,21 @@
+.greeting-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .greeting {
+    font-family: 'Arial', sans-serif;
+    font-size: 2rem;
+    color: #333;
+    margin: 0;
+  }
+  
+  .name {
+    color: #ff6347; /* Tomato color */
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
